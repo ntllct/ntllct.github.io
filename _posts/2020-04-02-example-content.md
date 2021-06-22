@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+preview: post preview 4
 ---
 
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
